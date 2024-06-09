@@ -1,0 +1,7 @@
+TensorFlow
+Gradio
+OpenCV
+scikit-learn
+numpy
+matplotlib
+seaborn
